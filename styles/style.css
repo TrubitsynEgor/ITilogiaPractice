@@ -228,6 +228,7 @@ padding: 40px 10px;
 .car-item-img img {
     vertical-align: bottom;
     transition: all .3s;
+    max-width: 100%;
 }
 .car-item-img:hover img {
     transform: scale(1.1);
@@ -423,7 +424,6 @@ padding: 40px 10px;
     .car-item{
         max-width: 290px;
     }
-
 
     .price-input {
         padding: 22px 18px;
